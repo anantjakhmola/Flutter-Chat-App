@@ -1,6 +1,4 @@
 "# Flutter-Chat-App" 
-"# Flutter-Chat-App" 
-"# Flutter-Chat-App" 
-"# Flutter-Chat-App" 
-"# flutter-chat-app" 
-"# flash-chat-flutter" 
+
+
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/flash_chat_flutter_demo.gif)
